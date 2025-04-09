@@ -1,5 +1,5 @@
 # **Introdução à Computação em Nuvem**  
-README apresenta uma visão geral sobre os cursos **"Introdução à Computação em Nuvem"**, resumindo os tópicos abordados, seus objetivos e como cada um se conecta ao aprendizado prático e teórico. 
+README apresenta uma visão geral sobre o curso **"Introdução à Computação em Nuvem"**, resumindo os tópicos abordados, seus objetivos e como cada um se conecta ao aprendizado prático e teórico. 
 A estrutura foi elaborada com boas práticas de DevOps, garantindo clareza e organização.
 
 ---
